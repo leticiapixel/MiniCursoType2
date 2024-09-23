@@ -1,0 +1,16 @@
+Anotações Curso Typescript 2
+
+Npm install -g typescript -> instalacao global typescript
+
+Tsc nome do arquivo -> comando para executar arquivo typescript (tsc índex.ts)
+
+Tsc - -init -> cria arquivo de configuração
+
+Pasta dist: guarda código js
+Pasta sic: guarda código ts
+
+Arquivo ts apenas compila, deve acessar pasta dist e executar arquivo js para rodar o código efetivamente
+
+? -> indica atributo opcional, ex: Nome?
+
+! -> ignora possibilidade de ser undefined
